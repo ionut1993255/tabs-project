@@ -4,7 +4,7 @@ This is a small project where I used HTML5 and CSS3 to implement a UI friendly t
 
 I plan to use this in future projects.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://ionut-tabs-project.netlify.app/
 
